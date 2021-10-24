@@ -1,14 +1,15 @@
 <template>
   <v-container>
-    Home
+    My Interest    
   </v-container>
 </template>
 
 <script>
+export default {
 
-  export default {
-    name: 'Home',
-    components: {
-    },
-  }
+}
 </script>
+
+<style>
+
+</style>
